@@ -20,4 +20,5 @@ Modifikasi tersebut meliputi:
 ## Bukti Eksekusi Aplikasi (Evidence)
 Berikut adalah tangkapan layar (screenshot) yang memvalidasi bahwa seluruh baris kode telah berhasil dikompilasi tanpa galat dan dirender dengan sempurna pada perangkat pengujian.
 
-(<img width="967" height="1119" alt="image" src="https://github.com/user-attachments/assets/e56f19fc-1340-4f04-bacf-f05add6c3763" />)
+<img width="967" height="1119" alt="image" src="https://github.com/user-attachments/assets/e56f19fc-1340-4f04-bacf-f05add6c3763" />
+
